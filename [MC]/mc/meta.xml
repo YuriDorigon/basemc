@@ -1,0 +1,11 @@
+<meta>
+	<info description="Interiors in main dimension" version="1.0" author="Flower Power" />
+	<script src="main.lua" type="client" protected="true" />
+	<file src="files/sw_diner1.col" />
+	<file src="files/sw_diner1.dff" />
+	<file src="files/trukstp01.col" />
+	<file src="files/trukstp01.dff" />
+	<map src="btc_map_int.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>
